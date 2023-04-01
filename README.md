@@ -1,6 +1,5 @@
 ## ShuleApp
-#
-# #shuleapp
-#
-# web based applicatom to Automate & manage school activities.
+   ---: :: : ----
+1. shuleapp
+2. web based applicatom to Automate & manage school activities.
 # 
