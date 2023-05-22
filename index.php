@@ -1,3 +1,11 @@
+<?php 
+
+ $username = POST[username];
+$password = POST[password];
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
